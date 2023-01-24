@@ -1,0 +1,34 @@
+
+.navbar-nav a {
+  font-size: 18px;
+}
+.loading
+{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#header {
+  height: 80px;
+  transition: all 0.5s;
+  z-index: 997;
+  transition: all 0.5s;
+  background: #f9f9f9;
+}
+.offline {
+  background-color: #f09408;
+  box-shadow: 10px 10px 10px #ef2427;
+  padding: 30px;
+  position: fixed; 
+  left: 50px;
+  top: 50%;
+  z-index: 999;
+  font-weight: 600;
+  font-size: 20px;
+}

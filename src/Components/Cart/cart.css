@@ -1,0 +1,24 @@
+
+table {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+table th {
+    text-transform: uppercase;
+}
+table th,td {
+    padding: 10px;
+}
+.total {
+    color: rgb(153, 69, 73);
+}
+.title {
+    font-weight: 800;
+    font-size: 50px;
+    color: rgb(153, 69, 73);
+    margin-bottom: 30px;
+}
+th  {
+    color: rgb(153, 69, 73) ;
+}
